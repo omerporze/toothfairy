@@ -1,5 +1,7 @@
 # toothfairy
-POC for CVE-2018-4330 (probably, read about it on the POC for CVE-2018-4327).
+Related to brokentooth (linked below).  
+Unlike brokentooth, toothfairy does not require pressing buttons on the bluetooth menu.  
+Both CVE's were revealed by @SparkZheng but with no POC so I decided to make a POC for the learning experience.  
 The code is not perfect but it does the job.
 
 Tested on iPhone 6S 11.3.1  
